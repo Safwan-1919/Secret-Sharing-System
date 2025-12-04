@@ -26,7 +26,7 @@ To launch the graphical interface, run the following command in your terminal:
 python main.py gui
 ```
 
-The application window will open, and you can use the input fields and buttons to split and combine your secrets.
+The application will open in a new window. The GUI has been redesigned with a clean, modern, and responsive layout, ensuring a user-friendly experience. The interface is organized into two primary sections: "Split Secret" and "Combine Shares." All UI elements, including input fields and text areas, are designed to be clearly visible and will automatically resize with the window, preventing any visual clipping or overlap.
 
 ### CLI Mode
 
